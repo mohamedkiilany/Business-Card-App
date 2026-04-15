@@ -16,8 +16,8 @@ A simple and clean **Business Card App** that displays personal information in a
 * Flutter & Dart
 
 ## 📸 Preview
-
-![App Screenshot](images/Screenshot%202026-04-15%20224103.png)
+<img src="images/screenshot.png" width="50%">
+<!-- ![App Screenshot](images/Screenshot%202026-04-15%20224103.png) -->
 
 ## 🚀 Getting Started
 
